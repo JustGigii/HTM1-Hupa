@@ -5,9 +5,11 @@
 /Assets/Images
 /Assets/video
 /Assets/text
+/Assets/text.docx
 *.mp4
 *.jpg
 *.png
+*.meta
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
