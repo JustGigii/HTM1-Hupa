@@ -2,6 +2,12 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
+/Assets/Images
+/Assets/video
+/Assets/text
+*.mp4
+*.jpg
+*.png
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
